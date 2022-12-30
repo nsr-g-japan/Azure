@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/12ab1e16-0842-43c8-ba09-8c5aa9256123/AppServices/subscriptions/12ab1e16-0842-43c8-ba09-8c5aa9256123/resourceGroups/exceladdinb1-rep/providers/Microsoft.Web/sites/exceladdinb1",
+    "appService.deploySubpath": "node-app"
+}
